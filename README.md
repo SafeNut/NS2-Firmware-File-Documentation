@@ -6,4 +6,6 @@ This repo is meant to document the file layout of the switch 2 firmware version 
 
 *No files from the firmware itself are present here, please do not ask for or share any of them here.*
 
+# [Read the Wiki here](https://github.com/SafeNut/NS2-Firmware-File-Documentation/wiki)
+
 # WORK IN PROGRESS
